@@ -1,0 +1,11 @@
+++Grade 값을 MySQL Workbench로 입력함.
+
+admin@naver.com	$2a$10$1cjH4.VxbagXGctn5crzzulH6q4wtv8EF/Kx.HPh540p9AMn/PvwK	1	1	1	1	2
+anon@naver.com	$2a$10$FNGc46tTkaItR3qA01peEuqjqMlnzBs9cgxKQiba1l67tFVyt7cUy	1	1	1	1	0
+user@naver.com	$2a$10$Hn/buYidW1yWlVLCXicHcuvMFBwLmRNKwwLkwxX8cspPNVnB79iMW	1	1	1	1	1
+
+이렇게 아 mysql에 넣을 예정.
+
+++ 부트스트랩 5 컴포넌트의 페이지네이션에 보면 사용할 수 있는 것들 있음
+그 페이지에 여러 페이지 번호 있고 클릭하면서 다음 페이지로 넘길 수 있는 것들.
+EX) 1 2 3 4 5 6 7 8 9 ...
